@@ -20,4 +20,4 @@ console.log(subtract(10,5))
 console.log(multiply(4,4));
 console.log(divide(10,5))
 
-
+console.log(add(a,1))
